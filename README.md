@@ -30,7 +30,7 @@
   
  
   
-  ![Snake animation](https://github.com/Beazika/Beazika.git)
+  ![Snake animation](https://github.com/Beazika/Beazika.git/dist/github-contribution-grid-snake.svg)
   </div>    
 
 
