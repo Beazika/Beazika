@@ -29,4 +29,4 @@
   
   </div>    
 
-  ! [Snake animation] (Beazika)
+  ! [Snake animation] (https://github.com/Beazika/Beazika.git)
