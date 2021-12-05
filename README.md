@@ -27,6 +27,10 @@
  	<a href="https://open.spotify.com/user/tfh6kn1sp1sldighzaquv3n44?si=e6b2173cc1954322" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/Beazika#0930" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   
+  
+ 
+  
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   </div>    
 
-![Snake animation](https://github.com/Beazika/Beazika.git/blob/output/github-contribution-grid-snake.svg)
+
